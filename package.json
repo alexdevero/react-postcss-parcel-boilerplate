@@ -1,0 +1,18 @@
+{
+  "name": "react-postcss-parcel-boilerplate",
+  "license": "MIT",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development parcel src/index.html -p 1337",
+    "build": "cross-env NODE_ENV=production parcel build src/index.html --no-minify --public-url /"
+  },
+  "dependencies": {
+    "autoprefixer": "^7.2.3",
+    "babel-preset-react-app": "^3.1.0",
+    "parcel-bundler": "^1.4.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.1.3"
+  }
+}
