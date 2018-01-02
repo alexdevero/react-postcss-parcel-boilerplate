@@ -1,6 +1,39 @@
 {
   "name": "react-postcss-parcel-boilerplate",
+  "version": "0.0.1",
+  "description": "Minimal React, PostCSS and Parcel Bundler app boilerplate.",
   "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdevero/react-postcss-parcel-boilerplate.git"
+  },
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/alexdevero/react-postcss-parcel-boilerplate/issues"
+  },
+  "author": {
+    "name": "Alex Devero",
+    "email": "deveroalex@gmail.com",
+    "url": "https://github.com/alexdevero"
+  },
+  "keywords": [
+    "app",
+    "boilerplate",
+    "open",
+    "open-source",
+    "parcel",
+    "postcss",
+    "react",
+    "reactjs",
+    "source"
+  ],
+  "engines": {
+    "node": ">=9.0.0",
+    "npm": ">=5.0.0",
+    "yarn": ">=1.0.0"
+  },
+  "main": "src/index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development parcel src/index.html -p 1337",
     "build": "cross-env NODE_ENV=production parcel build src/index.html --no-minify --public-url /"
