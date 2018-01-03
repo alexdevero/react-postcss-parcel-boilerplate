@@ -89,7 +89,7 @@ or
 npm start
 ```
 
-### Building for Production
+#### Building for Production
 
 Use following command when you want to compile your JS and copy your `index.html` to the `dist` folder you can then deploy.
 
