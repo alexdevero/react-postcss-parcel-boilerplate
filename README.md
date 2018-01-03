@@ -15,7 +15,7 @@ Minimal React, [PostCSS] and [Parcel Bundler] app boilerplate.
 
 ### Table of contents
 
-* [What's inside?](#What's inside?)
+* [What's inside?](#whats-inside)
 * [Install](#install)
 * [Usage](#usage)
 * [Notes](#notes)
