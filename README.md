@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://cdn.rawgit.com/alexdevero/react-postcss-parcel-boilerplate/master/docs/images/react-postcss-parcel-boilerplate.png" width="135" align="center">
+  <br>
+  <br>
+</p>
+
+<p align="center">
   <a href="https://david-dm.org/alexdevero/react-postcss-parcel-boilerplate"><img alt="Dependency Status" src="https://david-dm.org/alexdevero/react-postcss-parcel-boilerplate.svg?style=flat"></a>
   <a href="https://david-dm.org/alexdevero/react-postcss-parcel-boilerplate?type=dev"><img alt="devDependency Status" src="https://david-dm.org/alexdevero/react-postcss-parcel-boilerplate/dev-status.svg?style=flat"></a>
   <a href="http://opensource.org/licenses/MIT"><img alt="MIT License" src="https://img.shields.io/npm/l/express.svg"></a>
