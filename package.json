@@ -1,6 +1,6 @@
 {
   "name": "react-postcss-parcel-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal React, PostCSS and Parcel Bundler app boilerplate.",
   "license": "MIT",
   "private": false,
