@@ -39,11 +39,11 @@
     "build": "cross-env NODE_ENV=production parcel build src/index.html --no-minify --public-url /"
   },
   "dependencies": {
-    "autoprefixer": "^8.2.0",
+    "autoprefixer": "^8.3.0",
     "babel-preset-react-app": "^3.1.1",
-    "parcel-bundler": "^1.7.0",
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "parcel-bundler": "^1.7.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
   },
   "devDependencies": {
     "cross-env": "^5.1.4"
