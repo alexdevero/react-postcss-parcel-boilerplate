@@ -14,7 +14,6 @@
   },
   "author": {
     "name": "Alex Devero",
-    "email": "deveroalex@gmail.com",
     "url": "https://github.com/alexdevero"
   },
   "keywords": [
@@ -46,6 +45,9 @@
     "react-dom": "^16.9.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0",
     "cross-env": "^5.2.0"
   }
 }
