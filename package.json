@@ -32,6 +32,13 @@
     "npm": ">=5.x.x",
     "yarn": ">=1.x.x"
   },
+  "browserslist": [
+    "Firefox >= 60",
+    "Chrome >= 65",
+    "ie >= 11",
+    "last 4 versions",
+    "Safari >= 12"
+  ],
   "main": "src/index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development parcel src/index.html -p 1337",
